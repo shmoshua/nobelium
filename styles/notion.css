@@ -55,7 +55,11 @@
   overflow-wrap: break-word;
 }
 .notion,
-.notion-text,
+.notion-text {
+  margin: 0;
+  padding: 0;
+}
+
 .notion-quote,
 .notion-h-title {
   @apply p-0;
