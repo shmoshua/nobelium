@@ -128,14 +128,14 @@ pre[class*='language-'] {
   @apply bg-day dark:bg-night;
 }
 .notion-full-width {
-  @apply px-0;
+  @apply px-50;
 }
 .notion-page {
   @apply w-auto;
   @apply px-0;
 }
 .notion-quote {
-  font-size: 9px;
+  font-size: 16px;
   padding: 0.2em 0.9em;
 }
 .notion-hr {
