@@ -1,6 +1,5 @@
 import Link from 'next/link'
 import { useConfig } from '@/lib/config'
-import FormattedDate from '@/components/FormattedDate'
 
 const BlogPost = ({ post }) => {
   const BLOG = useConfig()
