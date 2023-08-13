@@ -1,11 +1,10 @@
 {
   "NAV": {
     "INDEX": "Blog",
-    "RSS": "RSS",
+    "RSE": "RSE",
     "SEARCH": "Search",
     "ABOUT": "About",
-    "INFOSEC": "InfoSec",
-    "RSE": "RSE"
+    "INFOSEC": "InfoSec"
   },
   "PAGINATION": {
     "PREV": "Prev",
