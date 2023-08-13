@@ -179,6 +179,8 @@ pre[class*='language-'] {
 }
 
 .notion-list > li {
+  margin: 0;
+  padding: 0;
   padding-left: 2px;
   padding-right: 2px;
   line-height: 100%;
