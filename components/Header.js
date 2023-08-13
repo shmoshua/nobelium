@@ -25,7 +25,7 @@ const NavBar = () => {
                 key={link.id}
                 className="block ml-4 text-black dark:text-gray-50 nav"
               >
-                <Link href={null} target={link.external ? '_blank' : null}>{link.name}</Link>
+                <Link href={link.to} target={link.external ? '_blank' : null}>{link.name}</Link>
               </li>
             )
         )}
