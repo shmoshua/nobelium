@@ -45,7 +45,7 @@ body::-webkit-scrollbar {
   width: 5px;
 }
 body {
-  width: 100%;
+  width: 140%;
   scrollbar-width: thin;
   scrollbar-color: var(--thumbBG) var(--scrollbarBG);
 }
