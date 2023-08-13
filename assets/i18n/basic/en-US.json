@@ -4,7 +4,8 @@
     "RSS": "RSS",
     "SEARCH": "Search",
     "ABOUT": "About",
-    "INFOSEC": "InfoSec"
+    "INFOSEC": "InfoSec",
+    "RSE": "RSE"
   },
   "PAGINATION": {
     "PREV": "Prev",
