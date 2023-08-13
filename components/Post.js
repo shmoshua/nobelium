@@ -71,6 +71,7 @@ export default function Post (props) {
           {/* `65px` is the height of expanded nav */}
           {/* TODO: Remove the magic number */}
           <TableOfContents blockMap={blockMap} className="pt-3 sticky" style={{ top: '65px' }} />
+          <TableOfContents blockMap={blockMap} className="pt-3 sticky" style={{ top: '205px' }} />
         </div>
       </div>
     </article>
